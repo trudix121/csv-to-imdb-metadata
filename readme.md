@@ -50,3 +50,5 @@ Install dependencies with:
 
 ```bash
 pip install pandas requests
+```
+**This project uses an unofficial API (rest.imdbapi.dev) and is not affiliated with IMDb.**
